@@ -31,10 +31,11 @@ Click on Rock, Paper, or Scissors.
 The computer will randomly choose its move.
 
 Here's a preivew of how my project looks!
+<img width="1919" height="865" alt="Screenshot 2025-11-06 225338" src="https://github.com/user-attachments/assets/194d22e0-7b7b-460d-88df-7295ef51a126" />
+<img width="1919" height="864" alt="Screenshot 2025-11-06 225400" src="https://github.com/user-attachments/assets/5da162da-4c05-47e2-aab8-de4cf23d3ca0" />
+<img width="1919" height="869" alt="Screenshot 2025-11-06 225415" src="https://github.com/user-attachments/assets/ebe8bf34-3b58-4919-948c-b8da3638069c" />
 
-<img width="3" height="3" alt="Screenshot 2025-1<img width="899" height="788" alt="Screenshot 2025-11-06 154930" src="https://github.com/user-attachments/assets/0dc8c8aa-340d-4e12-9ccc-64fda18eacec" />
-1-06 192723" src="https://github.com/user-attachments/assets/17291f3a-de83-49be-9e5b-9fcbb1ff3fd2" />
-<img width="782" height="820" alt="Screenshot 2025-11-06 154901" src="https://github.com/user-attachments/assets/343511cb-889e-4531-8c97-af86c428b511" />
+
 
 
 A message will tell you whether you win, lose, or draw.
